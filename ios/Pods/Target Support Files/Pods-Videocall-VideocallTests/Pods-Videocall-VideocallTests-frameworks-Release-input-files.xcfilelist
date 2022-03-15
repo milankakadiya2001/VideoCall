@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Videocall-VideocallTests/Pods-Videocall-VideocallTests-frameworks.sh
+${PODS_ROOT}/VoxImplantSDK/VoxImplant.framework
+${PODS_ROOT}/VoxImplantWebRTC/WebRTC.framework

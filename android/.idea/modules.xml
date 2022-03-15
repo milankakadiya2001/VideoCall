@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Videocall.iml" filepath="$PROJECT_DIR$/.idea/modules/Videocall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Videocall.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Videocall.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1935434544/Videocall.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1935434544/Videocall.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2121940760/Videocall.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-2121940760/Videocall.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/410529551/Videocall.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/410529551/Videocall.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/399391431/Videocall.react-native-voximplant.iml" filepath="$PROJECT_DIR$/.idea/modules/399391431/Videocall.react-native-voximplant.iml" />
+    </modules>
+  </component>
+</project>

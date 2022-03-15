@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.voximplant:voximplant-sdk:2.29.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e8698610ef4b2f4ae029a5374f44d5ed/transformed/jetified-voximplant-sdk-2.29.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e8698610ef4b2f4ae029a5374f44d5ed/transformed/jetified-voximplant-sdk-2.29.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e8698610ef4b2f4ae029a5374f44d5ed/transformed/jetified-voximplant-sdk-2.29.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e8698610ef4b2f4ae029a5374f44d5ed/transformed/jetified-voximplant-sdk-2.29.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.voximplant/voximplant-sdk/2.29.1/c199153d821b042c3b7045b420259ee7aa6f58e8/voximplant-sdk-2.29.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
