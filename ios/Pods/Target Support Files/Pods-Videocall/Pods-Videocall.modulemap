@@ -1,0 +1,6 @@
+module Pods_Videocall {
+  umbrella header "Pods-Videocall-umbrella.h"
+
+  export *
+  module * { export * }
+}

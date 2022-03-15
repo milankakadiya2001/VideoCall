@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Videocall-VideocallTests/Pods-Videocall-VideocallTests-frameworks.sh
+${PODS_ROOT}/VoxImplantSDK/VoxImplant.framework
+${PODS_ROOT}/VoxImplantWebRTC/WebRTC.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Flipper-DoubleConversion/double-conversion.framework/double-conversion
+${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL

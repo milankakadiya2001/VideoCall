@@ -1,0 +1,6 @@
+module Pods_Videocall_VideocallTests {
+  umbrella header "Pods-Videocall-VideocallTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
